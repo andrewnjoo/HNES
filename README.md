@@ -3,6 +3,9 @@ Hacker News Enhancement Suite
 
 A Hacker News extension for Firefox and Chrome which changes lots of things.
 
+<!-- <img src='/images/screen.png' /> -->
+![](/images/screen.png)
+
 Features
 --------
 * Completely new style

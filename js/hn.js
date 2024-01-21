@@ -261,7 +261,7 @@ var CommentTracker = {
   }
 }
 
-var unvoteImg = chrome.extension.getURL("images/unvote.gif");
+var unvoteImg = chrome.runtime.getURL("images/unvote.gif");
 
 class HNComments {
   constructor(storyId) {
